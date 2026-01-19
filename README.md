@@ -77,7 +77,7 @@ ROC–AUC
 
 Cross-validated ROC–AUC
 
-📌 Key Results:
+**Key Results:**
 
 ROC–AUC: [0.8332]
 
@@ -85,17 +85,15 @@ CV ROC–AUC: [0.997]
 
 Recall (Unsuppressed class): [0.99]
 
-[INSERT CONFUSION MATRIX FIGURE HERE](
+[!CONFUSION MATRIX](
 
-📌 Placeholder:
-[INSERT ROC CURVE FIGURE HERE]
+[! ROC CURVE]
 
 🔍 Feature Importance
 
 XGBoost feature importance analysis highlights variables most associated with virologic outcomes.
 
-📌 Placeholder:
-[INSERT FEATURE IMPORTANCE PLOT HERE]
+[!FEATURE IMPORTANCE!]
 
 Key insights include:
 
