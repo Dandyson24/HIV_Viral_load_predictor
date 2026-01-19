@@ -87,21 +87,17 @@ Recall (Unsuppressed class): [0.99]
 
 !['CONFUSION MATRIX'](https://github.com/Dandyson24/HIV_Viral_load_predictor/blob/main/Confusion_matrix_xgb.png)
 
-[! ROC CURVE] (https://github.com/Dandyson24/HIV_Viral_load_predictor/blob/main/ROC_CURVE_XGB.png)
+!['ROC CURVE'] (https://github.com/Dandyson24/HIV_Viral_load_predictor/blob/main/ROC_CURVE_XGB.png)
 
- Feature Importance
+ ### Feature Importance
 
 XGBoost feature importance analysis highlights variables most associated with virologic outcomes.
 
-[!FEATURE IMPORTANCE!] (https://github.com/Dandyson24/HIV_Viral_load_predictor/blob/main/VL_Features_xgb.png?raw=true)
+!['FEATURE IMPORTANCE'] (https://github.com/Dandyson24/HIV_Viral_load_predictor/blob/main/VL_Features_xgb.png?raw=true)
 
-Key insights include:
+### Key insights include:
+Presence of opportunistic infections,  pill burden, stage at commencement of therapy, issues with supply chain are leading features affecting suppression
 
-Adherence-related factors strongly influence suppression
-
-Treatment interruptions and pill burden increase risk of failure
-
-Behavioral factors contribute meaningfully to prediction
 ### Public Health & Clinical Use Cases
 
 Early warning system for patients at risk of virologic failure
@@ -114,25 +110,23 @@ Program monitoring and quality improvement
 
 ### Limitations
 
-Synthetic data may not capture all real-world complexities
+- Synthetic data may not capture all real-world complexities
 
-Model performance may vary across settings
+- Model performance may vary across settings
 
-Does not replace clinical judgment
+- Does not replace clinical judgment
 
-External validation is required before deployment
+- External validation is required before deployment
 
 ### Future Work
 
-Validate model on real-world VL datasets
+- Validate model on real-world VL datasets
 
-Integrate into DHIS2 / EMR systems
+- Integrate into DHIS2 / EMR systems
 
-Develop real-time dashboards (Power BI / Streamlit)
+- Develop real-time dashboards (Power BI / Streamlit)
 
-Add time-series VL prediction
-
-Incorporate explainability tools (SHAP)
+- Incorporate explainability tools (SHAP)
 
 ### Tech Stack
 
@@ -146,7 +140,7 @@ Pandas, NumPy
 
 Matplotlib / Seaborn
 
-📁 Repository Structure
+### Repository Structure
 ├── data/
 ├── notebooks/
 │   └── VL_predictor_using_XGBoost.ipynb
@@ -158,10 +152,6 @@ Matplotlib / Seaborn
 Andrew Nwachimere-eze Okebugwu, PhD
 Public Health Physician | Data Scientist
 
-📌 Placeholder:
+LinkedIn: [https://www.linkedin.com/in/andrew-nwachimereze-okebugwu-mbbs-mph-phd-6b429617]
 
-LinkedIn: [INSERT LINK]
-
-Portfolio: [INSERT LINK]
-
-Email: [INSERT EMAIL]
+Email: [dr.andrewokebugwu@gmail.com]
