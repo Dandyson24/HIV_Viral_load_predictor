@@ -87,7 +87,7 @@ Recall (Unsuppressed class): [0.99]
 
 [!CONFUSION MATRIX](https://github.com/Dandyson24/HIV_Viral_load_predictor/blob/main/Confusion_matrix_xgb.png)
 
-[! ROC CURVE]
+[! ROC CURVE] (https://github.com/Dandyson24/HIV_Viral_load_predictor/blob/main/ROC_CURVE_XGB.png)
 
 🔍 Feature Importance
 
