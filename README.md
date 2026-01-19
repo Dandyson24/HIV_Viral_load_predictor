@@ -44,11 +44,10 @@ Type: Synthetic HIV clinical dataset
 
 Size: 15,000 patient records
 
-Target Variable: Viral Load Suppression (0 = Unsuppressed, 1 = Suppressed)
+Target Variable: Viral Load Suppression (0 = Suppressed, 1 = Unsuppressed)
 
 
-📌 Placeholder:
-[INSERT DATA DICTIONARY TABLE HERE]
+[Data dictionary] (https://github.com/Dandyson24/HIV_Viral_load_predictor/blob/main/vl_dataset_data_dictionary.csv)]
 
 ### Methodology
 
@@ -78,7 +77,7 @@ ROC–AUC
 
 Cross-validated ROC–AUC
 
-📌 Key Results (example – update as needed):
+📌 Key Results:
 
 ROC–AUC: [0.8332]
 
