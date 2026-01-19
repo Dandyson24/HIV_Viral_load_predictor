@@ -85,7 +85,7 @@ CV ROC–AUC: [0.997]
 
 Recall (Unsuppressed class): [0.99]
 
-[!CONFUSION MATRIX](
+[!CONFUSION MATRIX](https://github.com/Dandyson24/HIV_Viral_load_predictor/blob/main/Confusion_matrix_xgb.png)
 
 [! ROC CURVE]
 
