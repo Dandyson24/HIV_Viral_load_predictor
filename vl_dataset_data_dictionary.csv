@@ -1,0 +1,12 @@
+variable_name,data_type,description
+patient_id,Integer,Unique synthetic patient identifier
+adherence_pct,Numeric (%),Estimated ART adherence percentage (40–100)
+pill_out_of_stock,Binary (0/1),"Experienced ART pill stock-out (1=Yes, 0=No)"
+smoking,Binary (0/1),"Current smoking status (1=Yes, 0=No)"
+alcoholism,Binary (0/1),"Harmful alcohol use (1=Yes, 0=No)"
+earlier_denial,Binary (0/1),History of treatment denial or non-acceptance
+regimen,Categorical,"Current ART regimen (TLD, TLE, LPV/r)"
+pill_burden,Integer,Total daily pill count (ART + NCD medications)
+who_stage,Ordinal (1–4),WHO HIV clinical stage
+ois_present,Binary (0/1),Presence of opportunistic infections
+vl_unsuppressed,Binary (0/1),"Viral load outcome (1=Unsuppressed >1000, 0=Suppressed <1000)"
