@@ -36,7 +36,7 @@ The model uses a mix of clinical, behavioral, and treatment adherence indicators
 
 - Presence of opportunistic infections (OIs)
 
-### Note: Synthetic data were generated to preserve privacy while maintaining realistic clinical patterns.
+**Note: Synthetic data were generated to preserve privacy while maintaining realistic clinical patterns**
 
  **Dataset**
 
@@ -147,6 +147,7 @@ Matplotlib / Seaborn
 ├── figures/
 ├── README.md
 └── requirements.txt
+
 👤 Author
 
 Andrew Nwachimere-eze Okebugwu, PhD
