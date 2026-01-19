@@ -89,11 +89,11 @@ Recall (Unsuppressed class): [0.99]
 
 [! ROC CURVE] (https://github.com/Dandyson24/HIV_Viral_load_predictor/blob/main/ROC_CURVE_XGB.png)
 
-🔍 Feature Importance
+ Feature Importance
 
 XGBoost feature importance analysis highlights variables most associated with virologic outcomes.
 
-[!FEATURE IMPORTANCE!]
+[!FEATURE IMPORTANCE!] (https://github.com/Dandyson24/HIV_Viral_load_predictor/blob/main/VL_Features_xgb.png?raw=true)
 
 Key insights include:
 
