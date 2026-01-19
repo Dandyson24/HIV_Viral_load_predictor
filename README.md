@@ -87,13 +87,14 @@ Recall (Unsuppressed class): [0.99]
 
 !['CONFUSION MATRIX'](https://github.com/Dandyson24/HIV_Viral_load_predictor/blob/main/Confusion_matrix_xgb.png)
 
-!['ROC CURVE'] (https://github.com/Dandyson24/HIV_Viral_load_predictor/blob/main/ROC_CURVE_XGB.png)
+
+!['ROC CURVE'](https://github.com/Dandyson24/HIV_Viral_load_predictor/blob/main/ROC_CURVE_XGB.png)
 
  ### Feature Importance
 
 XGBoost feature importance analysis highlights variables most associated with virologic outcomes.
 
-!['FEATURE IMPORTANCE'] (https://github.com/Dandyson24/HIV_Viral_load_predictor/blob/main/VL_Features_xgb.png?raw=true)
+!['FEATURE IMPORTANCE'](https://github.com/Dandyson24/HIV_Viral_load_predictor/blob/main/VL_Features_xgb.png?raw=true)
 
 ### Key insights include:
 Presence of opportunistic infections,  pill burden, stage at commencement of therapy, issues with supply chain are leading features affecting suppression
